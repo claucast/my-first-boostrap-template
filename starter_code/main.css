@@ -1,0 +1,38 @@
+#titulo{
+    align-items: center;
+}
+
+.card-body{
+    align-items: center;
+    text-align: center;
+}
+
+.container{
+    align-items: center;
+    text-align: center;
+}
+
+.jumbotron{
+    background: #67B26F; 
+    background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F); 
+    background: linear-gradient(to right, #4ca2cd, #67B26F);
+}
+
+.margintop{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.descuento{
+    text-decoration: line-through;
+    color: rgb(124, 124, 124);
+}
+
+.display-2{
+    color:white; 
+    font-weight:400;
+}
+
+.lead{
+    color: white;
+}
